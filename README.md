@@ -29,6 +29,10 @@ Ce projet est mon premier portfolio en tant que développeuse web en formation. 
 
 Le portfolio est divisé en plusieurs sections telles que `Accueil`, `Expériences`, `Projets`, et `Contact`. Vous pouvez naviguer à travers les différentes sections en utilisant la barre de navigation ou en faisant défiler la page.
 
+## lien sur le portfolio
+
+portfolio-ff82a.firebaseapp.com
+
 ## Contributions
 
 Tout feedback ou contributions sont les bienvenus. Pour des modifications majeures, veuillez ouvrir un "issue" pour en discuter avant de faire un "pull request".
